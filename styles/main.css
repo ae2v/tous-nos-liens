@@ -68,7 +68,7 @@ body::before {
 
 .brand-logo {
   display: block;
-  width: 156px;
+  width: 300px;
   height: auto;
   margin-bottom: 28px;
 }
@@ -360,7 +360,7 @@ footer {
   }
 
   .brand-logo {
-    width: 190px;
+    width: 300px;
   }
 
   h1 {
