@@ -391,7 +391,7 @@ footer {
       <div class="hero-copy">
         <p class="eyebrow">ASSOCIATION ÉTUDIANTE DE VÉLIZY</p>
         <h1>L’ASSO DE<br><span>TOUS</span> LES<br>ÉTUDIANTS</h1>
-        <p class="intro">Une nouvelle équipe, plein d’idées et tous les liens utiles au même endroit.</p>
+        <p class="intro">Bienvenue sur la page des liens de l'AE2V ! Ici, retrouve tous nos réseaux.</p>
       </div>
     </header>
 
